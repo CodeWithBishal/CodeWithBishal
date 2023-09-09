@@ -1,4 +1,4 @@
-##Bishal Das
+## About Me
 
 Hi 👋, 
 I am Bishal Das, a First Year Student currently pursuing my Bachelor of Technology in Computer Science and Engineering from Shri G.S. Institute of Technology and Science, Indore.
