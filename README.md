@@ -1,3 +1,16 @@
+##Bishal Das
+
+Hi 👋, 
+I am Bishal Das, a First Year Student currently pursuing my Bachelor of Technology in Computer Science and Engineering from Shri G.S. Institute of Technology and Science, Indore.
+
+🚀 I'm a passionate Software Developer with proficiency in various programming languages such as HTML,CSS,JavaScript, PHP, MySql, Python, Django and Flutter.
+
+🚀 I'm also familiar with Cloud Computing tools like AWS(EC2), GCP(Compute Engine), DigitalOcean(Droplet) and Operating Systems like Windows, MacOS, Ubuntu(20.04 & 22.04) LTS.
+
+🚀 and Other tools like Firebase, WordPress, Appwrite.
+
+📧 Feel free to reach out to me at codewithbishal@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bishal-das-bd/).
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_bishal)
