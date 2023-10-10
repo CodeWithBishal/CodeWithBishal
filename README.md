@@ -29,6 +29,7 @@ I am Bishal Das, a First Year Student currently pursuing my Bachelor of Technolo
 
 [![An image of @codewithbishal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithbishal)](https://holopin.io/@codewithbishal)
 
-
+### Visitor Count
+![](https://komarev.com/ghpvc/?username=codewithbishal&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
