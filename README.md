@@ -1,7 +1,7 @@
 ## About Me
 
 Hi 👋, 
-I am Bishal Das, a First Year Student currently pursuing my Bachelor of Technology in Computer Science and Engineering from Shri G.S. Institute of Technology and Science, Indore.
+I am Bishal Das, a Second Year Student currently pursuing my Bachelor of Technology in Computer Science and Engineering from Shri G.S. Institute of Technology and Science, Indore.
 
 🚀 I'm a passionate Software Developer with proficiency in various programming languages such as HTML,CSS,JavaScript, PHP, MySql, Python, Django and Flutter.
 
